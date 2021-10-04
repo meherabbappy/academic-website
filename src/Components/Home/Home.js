@@ -20,9 +20,9 @@ const Home = () => {
             <Row className='header-all'>
             <Col  xs={6}>
                 <div className="home-description">
-                        <h1 className = 'title'>Learn online from the leaders in business education</h1>
-                        <p className = 'p-title'>Expand your business skills and engage with a global network of learners through our flexible, online courses. Wherever you are in your career—or the world—Harvard Business School Online can help you achieve your goals.</p>
-                        <Button className = 'btn-visit'>Visit Our Courses</Button>
+                        <h1 className= 'title'>Learn online from the leaders in business education</h1>
+                        <p className= 'p-title'>Expand your business skills and engage with a global network of learners through our flexible, online courses. Wherever you are in your career—or the world—Harvard Business School Online can help you achieve your goals.</p>
+                        <Button className= 'btn-visit'>Visit Our Courses</Button>
                     </div>    
                 </Col>
 
@@ -39,8 +39,8 @@ const Home = () => {
 
 
 
-            <div className ="my-4">
-            <h1 className = 'text-center divv3-cls'>Our Feature Courses</h1>
+            <div className="my-4">
+            <h1 className= 'text-center divv3-cls'>Our Feature Courses</h1>
             <div className= "div-cls"></div>
             </div>
             <Row xs={1} md={2} lg={2} className="g-4">

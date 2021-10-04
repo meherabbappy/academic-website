@@ -14,8 +14,8 @@ const Services = (props) => {
     return (
 
         <div>
-           <div className ="my-5">
-           <h1 className = 'divv3-cls'>Our All Courses</h1>
+           <div className="my-5">
+           <h1 className= 'divv3-cls'>Our All Courses</h1>
             <div className= "div-clss"></div>
            </div>
             

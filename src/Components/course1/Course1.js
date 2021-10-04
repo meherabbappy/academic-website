@@ -13,20 +13,20 @@ const Course1 = (props) => {
     return (  
 
         <div>
-   <Col className = "cards-home">
+   <Col className= "cards-home">
       <Card>
-        <Card.Img className = 'img-class' variant="top" src={img} />
+        <Card.Img className= 'img-className' variant="top" src={img} />
         <Card.Body>
-          <Card.Title><h2 className = "names">Course Name: {name}</h2></Card.Title>
+          <Card.Title><h2 className= "names">Course Name: {name}</h2></Card.Title>
           <Card.Text>
           
           </Card.Text>
           <h4>Course Type: {type}</h4>
-         <div className = 'cart-item'>
-         <h5 className = 'duration'> <FontAwesomeIcon icon={faStopwatch} /> {duration}</h5>
-          <h5 className = 'price'> Price : {price}</h5>
+         <div className= 'cart-item'>
+         <h5 className= 'duration'> <FontAwesomeIcon icon={faStopwatch} /> {duration}</h5>
+          <h5 className= 'price'> Price : {price}</h5>
          </div>
-          <Button className = "btn-regular">Enroll Now</Button>{' '}
+          <Button className= "btn-regular">Enroll Now</Button>{' '}
           
         </Card.Body>
       </Card>

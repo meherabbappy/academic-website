@@ -6,7 +6,7 @@ import './Footer.css'
 const Footer = () => {
     return (
         <div>
-            <h5 className = "footer">All CopyRight Reserved By <span><FontAwesomeIcon icon = {faCopyright}/> Meherab Hossain</span></h5>
+            <h5 className= "footer">All CopyRight Reserved By <span><FontAwesomeIcon icon = {faCopyright}/> Meherab Hossain</span></h5>
         </div>
     );
 };

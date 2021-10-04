@@ -10,20 +10,20 @@ const Services1 = (props) => {
     return (
 
 <div>
-      <Col className = "card-home">
+      <Col className= "card-home">
          <Card>
-           <Card.Img className = 'imgg-class' variant="top" src={img} />
+           <Card.Img className= 'imgg-className' variant="top" src={img} />
            <Card.Body>
-             <Card.Title><h4 className = 'names'>Course Name: {name}</h4></Card.Title>
+             <Card.Title><h4 className= 'names'>Course Name: {name}</h4></Card.Title>
              <Card.Text>
              
              </Card.Text>
              <h5>Course Type: {type}</h5>
-            <div className = 'cart1-item'>
-            <h5 className = 'duration1'> <FontAwesomeIcon icon={faStopwatch} /> {duration}</h5>
-             <h5 className = 'price1'> Price : {price}</h5>
+            <div className= 'cart1-item'>
+            <h5 className= 'duration1'> <FontAwesomeIcon icon={faStopwatch} /> {duration}</h5>
+             <h5 className= 'price1'> Price : {price}</h5>
             </div>
-             <Button className = "btn1-regular">Enroll Now</Button>{' '}
+             <Button className= "btn1-regular">Enroll Now</Button>{' '}
              
            </Card.Body>
          </Card>
