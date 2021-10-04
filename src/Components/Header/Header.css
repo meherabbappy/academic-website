@@ -1,0 +1,15 @@
+.header-name{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    transition: 0.3s;
+}
+.header-name:hover{
+    color: #2C2A96;
+}
+.logo{
+    width: 150px;
+    
+}

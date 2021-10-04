@@ -1,0 +1,51 @@
+.cards-home{
+    margin: 40px;
+    border-radius: 20px;
+}
+.img-class{
+    width: 100%;
+    /* margin:50px; */
+    height: 350px;
+    /* margin: auto; */
+}
+.btn-regular{
+    margin: 8px;
+    width: 180px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: black;
+    border-radius: 50px;
+    border: 2px solid black;
+    color: white;
+    font-weight: 600;
+    transition: 0.3s;
+}
+.btn-regular:hover{
+    background-color: yellow;
+    color: black;
+}
+.cart-item{
+    display: flex;
+    justify-content: space-around;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+}
+.price{
+    width: 180px;
+    background-color: #2C2A96;
+    color: white;
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+.duration{
+    width: 180px;
+    background-color: #2C2A96;
+    color: white;
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+.cart-item{
+    margin: 20px 0 20px 0;
+}

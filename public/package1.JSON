@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Javascript Course",
+        "price": "100 $",
+        "duration":"100 Hours",
+        "type":"Programming",
+        "img": "https://i.morioh.com/ba23cdfe71.png"
+      },
+      {
+          "name": "Web Development",
+          "price": "130 $",
+          "duration":"120 Hours",
+          "type":"Programming",
+          "img": "https://www.clariwell.in/resources/best-web-development-course-top-training-institute-in-pune.webp"
+      },
+      {
+          "name": "Andriod Development",
+          "price": "200 $",
+          "duration":"150 Hours",
+          "type":"Development",
+          "img": "https://lh3.googleusercontent.com/proxy/zjfidztj4TrGW4Tx6bpS0_HuIID6tYGM6rx0RAWt_EG7xGsAk-dNYIYzP7_D-8QL61xcEh2mWOTeh2gYTpsJUryuJtrum9zDe2tlTqzQvOcqwhJoVSOFoENDZu1LqYY_Nii1kf0lp_Ar3PcCcbiysDofftBRs7CwzJGRLSvMr_ANbA"
+      },
+      {
+          "name": "Software Design",
+          "price": "80 $",
+          "duration":"90 Hours",
+          "type":"Designing",
+          "img": "https://fyg6z38pxugoknuc1val4z1d-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/software-design-1-1024x574.jpg"
+      }
+]

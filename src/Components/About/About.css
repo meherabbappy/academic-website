@@ -1,0 +1,65 @@
+.qualities-img{
+    height: 170px;
+    width: 170px;
+    /* border-radius: ; */
+}
+.about-all{
+   padding: 30px;
+    background-image: url("https://image.shutterstock.com/image-photo/black-wall-texture-rough-background-260nw-1450341161.jpg");
+    color: white;
+    
+}
+.title-about{
+    font-weight: 700;
+}
+.p-items{
+    width: 400px;
+    margin: auto;
+}
+.p-about{
+    font-weight: 500;
+    line-height: 1.9rem;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    
+}
+.about-conatiner{
+    /* padding: 90px 40px 30px 40px; */
+}
+.all-titles{
+    color: #2C2A96;
+}
+.icon-img{
+    font-size: 50px;
+}
+.about-description{
+    margin:40px 0 40px 0;
+}
+.about-description1{
+    margin:40px 0 40px 0;
+}
+.about-child{
+    display: flex;
+    padding: 40px 100px 30px 100px;
+}
+.about-child1{
+    display: flex;
+    padding: 40px 300px 30px 300px;
+}
+.about-items{
+    width: 430px;
+    margin: auto;
+}
+.divv-cls{
+    width: 200px;
+    height: 5px;
+    margin: auto;
+    background-color: black;
+}
+.divv1-cls{
+    width: 350px;
+    height: 5px;
+    margin: auto;
+    background-color: black;
+}

@@ -1,0 +1,64 @@
+[
+    {
+      "name": "Javascript Course",
+      "price": "100 $",
+      "duration":"100 Hours",
+      "type":"Programming",
+      "img": "https://i.morioh.com/ba23cdfe71.png"
+    },
+    {
+        "name": "Web Development",
+        "price": "130 $",
+        "duration":"120 Hours",
+        "type":"Programming",
+        "img": "https://www.clariwell.in/resources/best-web-development-course-top-training-institute-in-pune.webp"
+    },
+    {
+        "name": "Andriod Development",
+        "price": "200 $",
+        "duration":"150 Hours",
+        "type":"Development",
+        "img": "https://lh3.googleusercontent.com/proxy/zjfidztj4TrGW4Tx6bpS0_HuIID6tYGM6rx0RAWt_EG7xGsAk-dNYIYzP7_D-8QL61xcEh2mWOTeh2gYTpsJUryuJtrum9zDe2tlTqzQvOcqwhJoVSOFoENDZu1LqYY_Nii1kf0lp_Ar3PcCcbiysDofftBRs7CwzJGRLSvMr_ANbA"
+    },
+    {
+        "name": "Software Design",
+        "price": "80 $",
+        "duration":"90 Hours",
+        "type":"Designing",
+        "img": "https://fyg6z38pxugoknuc1val4z1d-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/software-design-1-1024x574.jpg"
+    },
+    {
+        "name": "Machine Learning",
+        "price": "70 $",
+        "duration":"110 Hours",
+        "type":"Programming",
+        "img": "https://www.dexlabanalytics.com/wp-content/uploads/2017/04/How-Machine-Learning-Training-Course-and-AI-Made-Lives-Easier.png"
+    },
+    {
+        "name": "C Programming",
+        "price": "95 $",
+        "duration":"120 Hours",
+        "type":"Programming",
+        "img": "https://media.talentbattle.in/Files/C4U_Images/C4U_PACKAGES_IMAGES/1103/Artboard1copy8-min.jpg"
+    },
+    {   "name": "React Course",
+        "price": "180 $",
+        "duration":"160 Hours",
+        "type":"Programming",
+        "img": "https://i.morioh.com/2019/10/23/620a990fe531.jpg"
+    },
+    {
+        "name": "Graphics Design",
+        "price": "90 $",
+        "duration":"200 Hours",
+        "type":"Design",
+        "img": "https://lh3.googleusercontent.com/proxy/mrzCzxHP9w49OPEaCj3-CeE1GwXHk9pRhv65X3jGf3cerPHHgA4MUfzlZfH1ubzOvUR09L4W7o0f_2qDNg7Ug2QQ3WlAZQGwc5DFXYA1kffFBeLZw-daiaoCTB3jql_XJ5wQmT63WvybGlCRHUsYxjkJzGvVZSMcJlP7qckvkzBPxYbM2-X7QA"
+    },
+    {
+        "name": "Content Writting",
+        "price": "100 $",
+        "duration":"100 Hours",
+        "type":"Wirtting",
+        "img": "https://www.bytecodesoft.com/wp-content/uploads/2018/07/content-writing-course-1024x529.jpg"
+    }
+  ]
